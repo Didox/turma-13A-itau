@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.79.0">
-    <title>Breno - Gallo - Aula nova com alunos do itau - Dani Ramos</title>
+    <title>Breno - Gallo - Danilo - Aula nova com alunos do itau - Dani Ramos</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/pricing/">
 
